@@ -1,9 +1,4 @@
-//
-//  MindMateAIUITestsLaunchTests.swift
-//  MindMateAIUITests
-//
-//  Created by Visha on 1.04.2026.
-//
+
 
 import XCTest
 

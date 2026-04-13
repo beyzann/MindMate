@@ -1,9 +1,3 @@
-//
-//  MindMateAITests.swift
-//  MindMateAITests
-//
-//  Created by Visha on 1.04.2026.
-//
 
 import Testing
 
