@@ -5,8 +5,11 @@ MindMate, kullanıcıların ruh hallerini takip etmelerine, günlük tutmaların
 İçerisinde:
 
 Ruh Hali Takibi: Günlük olarak modunuzu seçebilir ve duygusal geçmişinizi görselleştirebilirsiniz.
+
 AI Sohbet Arkadaşı: Gemini API entegrasyonu sayesinde empatik ve destekleyici bir yapay zeka ile sohbet edebilirsiniz.
+
 Dijital Günlük: Duygularınızı yazıya dökerek kendinizi ifade edebilirsiniz.
+
 Kişiselleştirilmiş Öneriler: Modunuza göre AI tarafından sağlanan motivasyonel geri bildirimler.
 
 
