@@ -2,6 +2,7 @@ MindMate – Duygusal Farkındalık Asistanı
 
 MindMate, kullanıcıların ruh hallerini takip etmelerine, günlük tutmalarına ve yapay zeka desteğiyle duygusal farkındalık kazanmalarına yardımcı olmayı amaçlayan bir iOS uygulaması olarak tasarlanmıştır.
 
+
 İçerisinde:
 
 Ruh Hali Takibi: Günlük olarak modunuzu seçebilir ve duygusal geçmişinizi görselleştirebilirsiniz.
@@ -12,7 +13,9 @@ Dijital Günlük: Duygularınızı yazıya dökerek kendinizi ifade edebilirsini
 
 Kişiselleştirilmiş Öneriler: Modunuza göre AI tarafından sağlanan motivasyonel geri bildirimler.
 
+
 Uygulama Demo Videosu: https://canva.link/gor098ox1sy6dyo
+
 
 //Kullanılan Teknolojiler
 
@@ -23,6 +26,7 @@ Arayüz: SwiftUI
 AI Model: Google Gemini API
 
 Mimari: MVVM
+
 
 
 // Kurulum ve Çalıştırma
