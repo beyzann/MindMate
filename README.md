@@ -12,6 +12,7 @@ Dijital Günlük: Duygularınızı yazıya dökerek kendinizi ifade edebilirsini
 
 Kişiselleştirilmiş Öneriler: Modunuza göre AI tarafından sağlanan motivasyonel geri bildirimler.
 
+Uygulama Demo Videosu: https://canva.link/gor098ox1sy6dyo
 
 //Kullanılan Teknolojiler
 
