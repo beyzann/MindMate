@@ -27,7 +27,7 @@ Projeyi yerel bilgisayarınızda çalıştırmak için şu adımları izleyin:
 
 Repoyu Klonlayın:
 
-git clone https://github.com/beyzann/MindMateAI.git
+git clone [https://github.com/beyzann/MindMateAI.git]
 
 Projeyi Açın:
 
