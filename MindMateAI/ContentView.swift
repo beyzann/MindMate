@@ -23,7 +23,7 @@ struct ContentView: View {
                     .ignoresSafeArea()
                 
                 VStack {
-                    /* Dil değiştirme butonu sonraki kontrole kadar devre dışı.
+                    /* Dil değiştirme butonunu tam çeviri kontrolleri yapılana kadar devre dışı bıraktım.
                     HStack {
                         Spacer()
                         Button(langManager.selectedLanguage == .tr ? "🇺🇸 EN" : "🇹🇷 TR") {
